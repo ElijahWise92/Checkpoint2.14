@@ -1,3 +1,9 @@
+/* 
+Code File Name: Chapter4Exercise 10
+Programmer: Elijah Wise
+Due Date: 04/08/2026
+Requirements: Have user input a month and year. Determine if year is a leap year. Display if leap year or not and how many days are in month.
+*/
 #include <iostream>
 using namespace std;
 int main ()
