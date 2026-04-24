@@ -9,7 +9,6 @@ End the program if the quit option is chosen. Display an error message if the us
 and do not accept negative values for the circle's radius, the rectangle's length or width, or the triangles base or height.
 */
 #include <iostream>
-#include <iomanip>
 using namespace std;
 int main ()
 {
